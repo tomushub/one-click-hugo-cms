@@ -8,23 +8,23 @@ canonifyurls    = true
 
 [params]
   title       = "Ident!"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  subtitle    = "だらだらとしたためるH.Mの日記"
   copyright   = "© 2019"
 
   cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  description = "だらだらとしたためるH.Mの日記"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-#  twitterName = "faketryghost"
-#  fbName = "fakeghost"
-#  githubName = "eueung"
-#  linkedinName = "eueung"
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
+  linkedinName = "eueung"
   mediumName = ""
 
-  logo = "hugo-logo.png"
+#  logo = "hugo-logo.png"
   orgName = "Ident!"
   orgWebsite = false
 #  orgWebsite = "https://www.telematika.org"

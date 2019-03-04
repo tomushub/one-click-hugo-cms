@@ -1,12 +1,9 @@
 ---
-title: "Hello"
-date: 2019-03-04T17:15:15+09:00
-draft: false
+title: Hello world!!
+date: 2019-03-04T08:15:15.000Z
+description: hello world!! hugo + netliflyでブログを作ってみたぞ！何度目のブログ刷新か.....?
 ---
-
-#はじめまして
+##はじめまして
 hugoでブログをはじめてみたぞ！
 
 新しいツールってだけでテンション上がってるけど、書くことない...
-
-

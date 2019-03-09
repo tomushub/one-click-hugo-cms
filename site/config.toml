@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://tomutomu.netlify.com/"
 theme           = "casper-two"
 languageCode    = "js"
 disqusShortname = ""

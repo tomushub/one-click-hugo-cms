@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://tomutomu.netlify.com/"
 theme           = "casper-two"
 languageCode    = "js"
 disqusShortname = ""
@@ -7,12 +7,12 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "Ident!"
-  subtitle    = "だらだらとしたためるH.Mの日記"
+  title       = "Ident"
+  subtitle    = "だらだらとしたためる日記のようなもの"
   copyright   = "© 2019"
 
   cover       = "img/blog-cover.jpg"
-  description = "だらだらとしたためるH.Mの日記"
+  description = "だらだらとしたためる日記のようなもの"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []

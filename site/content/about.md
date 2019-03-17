@@ -6,6 +6,7 @@ noauthor = true
 share = false
 title = "About me"
 type = "page"
+languageCode = "js"
 [menu.main]
 weight = 111
 

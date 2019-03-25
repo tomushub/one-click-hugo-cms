@@ -52,14 +52,14 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "タグ"
+  url = "/tags/"
   weight = 100
 
-[[menu.main]]
-  name = "カテゴリー"
-  url = "/categories/"
-  weight = 99
+#[[menu.main]]
+#  name = "カテゴリー"
+#  url = "/categories/"
+#  weight = 99
 
 [[menu.main]]
   name = "デンマーク留学"

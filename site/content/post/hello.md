@@ -1,8 +1,9 @@
 ---
 title: Hello world!!
 date: 2019-03-04T08:15:15.000Z
-tag: [hugo]
+tags: ["hugo","newblog","netlify"]
 description: hello world!! hugo + netliflyでブログみたいなものを作ってみたぞ！何度目のブログ刷新か.....?
+image: /img/helloworld.JPG
 ---
 # Hello world
 留学中に"はてぶ"でブログ書いてたことがあったんだけど、とにかくサイトの読み込みが遅い!\\

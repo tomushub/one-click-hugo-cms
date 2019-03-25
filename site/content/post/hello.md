@@ -1,7 +1,7 @@
 ---
 title: Hello world!!
 date: 2019-03-04T08:15:15.000Z
-tag:[hugo]
+tag: [hugo]
 description: hello world!! hugo + netliflyでブログみたいなものを作ってみたぞ！何度目のブログ刷新か.....?
 ---
 #Hello world
